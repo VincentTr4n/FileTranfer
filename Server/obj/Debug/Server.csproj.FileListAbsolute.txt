@@ -1,0 +1,9 @@
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\bin\Debug\Server.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\bin\Debug\Server.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\bin\Debug\Server.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\obj\Debug\Server.frmServer.resources
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\obj\Debug\Server.Properties.Resources.resources
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\obj\Debug\Server.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Server\obj\Debug\Server.pdb

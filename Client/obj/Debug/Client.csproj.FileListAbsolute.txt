@@ -1,0 +1,9 @@
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\bin\Debug\Client.exe.config
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\bin\Debug\Client.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\bin\Debug\Client.pdb
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\obj\Debug\Client.frmClient.resources
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\obj\Debug\Client.Properties.Resources.resources
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\obj\Debug\Client.exe
+D:\MyWorkSpace\Code_LTMangCsharp\Day3\FileTranfer\Client\obj\Debug\Client.pdb
